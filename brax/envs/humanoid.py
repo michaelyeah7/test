@@ -681,14 +681,14 @@ joints {
   parent: "torso"
   child: "left_upper_arm"
   parent_offset {
-    y: 0.17
-    z: 0.06
+    y: 0.0
+    z: 0.0
   }
   child_offset {
   }
   rotation {
-    x: 45.0
-    y: -35.26439
+    x: 0.0
+    y: 0.26439
   }
   angular_damping: 20.0
   angle_limit {
