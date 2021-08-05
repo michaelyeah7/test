@@ -714,7 +714,7 @@ joints {
   }
   rotation {
     x: 45.0
-    z: -90.0
+    z: 0.0
   }
   angular_damping: 20.0
   angle_limit {
