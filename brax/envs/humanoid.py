@@ -671,8 +671,8 @@ joints {
   }
   angular_damping: 20.0
   angle_limit {
-    min: -90.0
-    max: 50.0
+    min: 0.0
+    max: 0.0
   }
 }
 joints {
@@ -718,8 +718,8 @@ joints {
   }
   angular_damping: 20.0
   angle_limit {
-    min: -90.0
-    max: 50.0
+    min: 0.0
+    max: 0.0
   }
 }
 actuators {
